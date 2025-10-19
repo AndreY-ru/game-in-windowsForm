@@ -8,17 +8,17 @@
 
 ## 🎬 Демонстрация геймплея
 
-<table align="center">
-  <tr>
-    <td align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Сбор_монет.gif" width="200" alt="Сбор монет"><br>
       <sub>Сбор монет</sub>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Смерть.gif" width="200" alt="Получение урона"><br>
       <sub>Получение урона</sub>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Генерация_уровней.gif" width="200" alt="Генерация уровней"><br>
       <sub>Генерация уровней</sub>
     </td>
