@@ -8,23 +8,24 @@
 
 ## 🎬 Демонстрация геймплея
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Сбор_монет.gif" width="200" alt="Сбор монет"><br>
-      <sub>Сбор монет</sub>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Смерть.gif" width="200" alt="Получение урона"><br>
-      <sub>Получение урона</sub>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Генерация_уровней.gif" width="200" alt="Генерация уровней"><br>
-      <sub>Генерация уровней</sub>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 10px; width: 33%;">
+        <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Сбор_монет.gif" width="200" height="200" alt="Сбор монет" style="max-width: 100%; height: auto;"><br>
+        <sub>Сбор монет</sub>
+      </td>
+      <td style="border: none; padding: 10px; width: 33%;">
+        <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Смерть.gif" width="200" height="200" alt="Получение урона" style="max-width: 100%; height: auto;"><br>
+        <sub>Получение урона</sub>
+      </td>
+      <td style="border: none; padding: 10px; width: 33%;">
+        <img src="https://github.com/AndreY-ru/game-in-windowsForm/blob/main/Gameplay/Генерация_уровней.gif" width="200" height="200" alt="Генерация уровней" style="max-width: 100%; height: auto;"><br>
+        <sub>Генерация уровней</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 ## 🎮 Функциональность
 
 - **Управление персонажем** - стрелками или WASD
